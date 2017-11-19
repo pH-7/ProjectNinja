@@ -186,11 +186,12 @@
     <div class="container">
       <div class="content has-text-centered">
         <p>
-          &copy; 2017 <strong>ProjectNinja.pw</strong>.
+          &copy; <span id="copyrightYear"></span> <strong>ProjectNinja.pw</strong>.
+          <script>document.getElementById('copyrightYear').innerHTML = (new Date).getFullYear()</script>
         </p>
       </div>
     </div>
   </footer>
-  <script async src="./static/js/bulma.js"></script>
+  <script async src="./static/js/common.js"></script>
 </body>
 </html>
