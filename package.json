@@ -1,0 +1,24 @@
+{
+  "name": "github-marketing",
+  "version": "1.0.0",
+  "description": "Marketing services for open source projects",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.6.1",
+    "bulma-pricingtable": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "marketing",
+    "open",
+    "source",
+    "marketing",
+    "service"
+  ],
+  "author": "Pierre-Henry Soria",
+  "license": "GPL-3.0"
+}
