@@ -2,7 +2,8 @@
 
 Don't waste time promoting your new awesome Github project...
 
-ProjectNinja helps busy developers to get their projects famous & credible
+ProjectNinja is a marketing platform for open source projects.
+It helps busy developers to get their projects more popular, credible and attract more contributors.
 
 
 ## About Me ...
